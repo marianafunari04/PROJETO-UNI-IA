@@ -1,0 +1,7 @@
+{
+  "name": "UNI-IA: Unindo Novas Interações",
+  "description": "An inclusive and accessible translation application with an innovative feature for translating to and from Brazilian Sign Language (Libras), fostering communication for all.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
